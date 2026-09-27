@@ -17,3 +17,7 @@ Exercícios introdutórios de Node.js e módulos ES:
 Projeto criado com Vite utilizando o template Vanilla JavaScript.
 
 O contador foi alterado para contar para baixo e o valor atual é apresentado no título do separador.
+
+## Utilização de IA generativa
+
+Foi utilizada IA generativa como apoio na conclusão da ficha em casa, nomeadamente para esclarecimento de conceitos, interpretação do enunciado e compreensão dos exercícios.
