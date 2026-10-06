@@ -1,0 +1,59 @@
+{
+  "count": 8,
+  "total": 126,
+  "categories": [
+    "Code",
+    "Image",
+    "LLM",
+    "Multimodal"
+  ],
+  "top3": [
+    {
+      "id": 4,
+      "name": "Gemini",
+      "category": "Multimodal",
+      "price": 25,
+      "tags": [
+        "texto",
+        "imagem",
+        "chat",
+        "programacao"
+      ],
+      "provider": {
+        "name": "Google",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 1,
+      "name": "GPT",
+      "category": "LLM",
+      "price": 20,
+      "tags": [
+        "texto",
+        "chat",
+        "programacao"
+      ],
+      "provider": {
+        "name": "OpenAI",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Claude",
+      "category": "LLM",
+      "price": 20,
+      "tags": [
+        "texto",
+        "escrita-criativa",
+        "programacao",
+        "analise"
+      ],
+      "provider": {
+        "name": "Anthropic",
+        "country": "USA"
+      }
+    }
+  ]
+}
