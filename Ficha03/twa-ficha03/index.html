@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Catálogo de Modelos de IA</title>
+  </head>
+
+  <body>
+    <main>
+      <h1>Catálogo de Modelos de IA</h1>
+
+      <p>Explora e compara diferentes modelos de Inteligência Artificial.</p>
+
+      <section>
+        <h2>Pesquisar modelos</h2>
+
+        <input
+          type="search"
+          id="search"
+          placeholder="Pesquisar por nome ou tag..."
+        />
+
+        <select id="category">
+          <option value="">Todas as categorias</option>
+        </select>
+
+        <button id="sort" type="button">
+          Ordenar por preço ↓
+        </button>
+      </section>
+
+      <section>
+        <h2>Modelos disponíveis</h2>
+
+        <p id="status">A carregar modelos...</p>
+
+        <ul id="list"></ul>
+      </section>
+
+      <section id="detail">
+        <h2>Detalhes do modelo</h2>
+        <p>Seleciona um modelo para ver os detalhes.</p>
+      </section>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
